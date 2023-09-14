@@ -1,0 +1,72 @@
+//TODO: biomarker value, remove, normalization
+
+//Genomics
+RULENAME="cm_MutCarrier1",REGEXP="(?i)\b(%reCarrier)\s(\S+\s+){0,3}(%reGene)\b",LOCATION="NA",NORM="CARRIER1:group(4)"
+RULENAME="cm_MutCarrier2",REGEXP="(?i)\b(%reGene)\s(\S+\s+){0,3}(%reCarrier)\b",LOCATION="NA",NORM="CARRIER2:group(1)"
+RULENAME="cm_MutCarrier3",REGEXP="(?i)\b(%reVUS)\s(\S+\s+){0,25}(%reGene)\b",LOCATION="NA",NORM="CARRIER3:group(4)_VUS"
+RULENAME="cm_MutCarrier4",REGEXP="(?i)\b(%reGene)\s(\S+\s+){0,25}(%reVUS)\b",LOCATION="NA",NORM="CARRIER4:group(1)_VUS"
+RULENAME="cm_rVARIANT",REGEXP="(?i)(%reNucleotide)",LOCATION="NA",NORM="VARIANT:group(1)"
+RULENAME="cm_rPROTEIN",REGEXP="\b(?i)(%reProtein)\b",LOCATION="NA",NORM="PROTEIN:group(1)"
+
+//Labs-Vitals-Biomarker
+//norm reference
+//RULENAME="cm_rBiomarker1",REGEXP="\b(?i)(%reBiomarker)\s+(\S+\s+){0,3}(is|\:|to be|was|were)\s+(\S+\s+){0,3}(negative|negativity|neg)\b",LOCATION="NA",NORM="BIOMARKER:%normBIOMARKER(group(1))_Neg"
+
+RULENAME="cm_rBiomarker1",REGEXP="\b(?i)(%reBiomarker)\s+(\S+\s+){0,3}(is|\:|to be|was|were)\s+(\S+\s+){0,3}(negative|negativity|neg)\b",LOCATION="NA",NORM="BIOMARKER:group(1)_Neg"
+RULENAME="cm_rBiomarker2",REGEXP="\b(?i)(%reBiomarker)\s*\W?(\S+\s+){0,3}(is|\:|to be|was|were)\s+(\S+\s+){0,3}(positive|positivity|pos)\b",LOCATION="NA",NORM="BIOMARKER:group(1)_Pos"
+RULENAME="cm_rBiomarker3",REGEXP="\b(?i)(%reBiomarker)\s*\W?(\s+\S+){0,3} (positive|positivity|pos)\b",LOCATION="NA",NORM="BIOMARKER:group(1)_Pos"
+RULENAME="cm_rBiomarker4",REGEXP="\b(?i)(negative|negativity|neg)\s+(\S+\s+){0,3}for\s+(\S+\s+){0,5}(%reBiomarker)\b",LOCATION="NA",NORM="BIOMARKER:group(5)_Neg"
+RULENAME="cm_rBiomarker5",REGEXP="\b(?i)(positive|positivity|pos)\s+(\S+\s+){0,3}for\s+(\S+\s+){0,5}(%reBiomarker)\b",LOCATION="NA",NORM="BIOMARKER:group(5)_Pos"
+
+
+//LEO biomark needs value - TODO
+RULENAME="cm_rBiomarker6",REGEXP="\b(?i)(%reBiomarker)\b",LOCATION="NA",NORM="BIOMARKER:group(1)"
+
+//Disease - stage
+RULENAME="cm_rStage1",REGEXP="\b(?i)(%reStage)\b",LOCATION="NA",NORM="STAGE:group(1)"
+RULENAME="cm_rStage2",REGEXP="\b(?i)(limited|extensive)(\s*|-)(%reHistology)\b",LOCATION="NA",NORM="STAGE:group(4)"
+RULENAME="cm_rStage3",REGEXP="\b(?i)(limited|extensive)(\s*|-)(%reGrade)\b",LOCATION="NA",NORM="STAGE:group(4)"
+RULENAME="cm_rStageSign",REGEXP="\b(?i)(%reStageSign)\b",LOCATION="NA",NORM="STAGESIGN:group(1)"
+
+//Disease - grade
+RULENAME="cm_Grade1",REGEXP="(?i)\b(%reGrade).*(%Histology|pathology|biopsy)\b",LOCATION="NA",NORM="GRADE:group(1)"
+RULENAME="cm_Grade2",REGEXP="(?i)\b(%reHistology|pathology|biopsy).*(%Grade)\b",LOCATION="NA",NORM="GRADE:group(4)"
+
+//Disease - histology 
+RULENAME="cm_rHistology",REGEXP="\b(?i)(%reHistology)\b",LOCATION="NA",NORM="HISTOLOGY:group(1)"
+
+//Disease - Subtype
+RULENAME="cm_rSubtype",REGEXP="\b(?i)(%reSubtype)\b",LOCATION="NA",NORM="SUBTYPE:group(1)"
+
+//Treatment - surgery - no norm
+RULENAME="cm_rSurgery1",REGEXP="(?i)\b(surgery)(\s+\S+){0,10} (%reChemo)\b",LOCATION="NA",NORM="SURGERY:group(1)"
+RULENAME="cm_rSurgery2",REGEXP="(?i)\b(surgery)(\s+\S+){0,10} (%reRadio)\b",LOCATION="NA",NORM="SURGERY:group(1)"
+RULENAME="cm_rSurgery3",REGEXP="(?i)\b(%reChemo)(\s+\S+){0,10} (surgery)\b",LOCATION="NA",NORM="SURGERY:group(4)"
+RULENAME="cm_rSurgery4",REGEXP="(?i)\b(%reRadio)(\s+\S+){0,10} (surgery)\b",LOCATION="NA",NORM="SURGERY:group(4)"
+RULENAME="cm_rSurgery5",REGEXP="(?i)\b(%reStatus)(\s+\S+){0,10} (surgery)\b",LOCATION="NA",NORM="SURGERY:group(4)"
+RULENAME="cm_rSurgery6",REGEXP="(?i)\b(%reSurgery)\b",LOCATION="NA",NORM="SURGERY:group(1)"
+
+//Treatment - chemo - no norm
+RULENAME="cm_rChemo1",REGEXP="(?i)\b(%reChemo)\b",LOCATION="NA",NORM="CHEMO:group(1)"
+
+//Treatment - radiotherapy
+RULENAME="cm_rRadio1",REGEXP="(?i)\b(%reRadio)\b",LOCATION="NA",NORM="RADIO:group(1)"
+
+//Outcome
+RULENAME="cm_rOutcome",REGEXP="\b(?i)(%reOutcome)\b",LOCATION="NA",NORM="OUTCOME:group(1)"
+
+//Exam
+RULENAME="cm_rExam",REGEXP="\b(?i)(%reExam)\b",LOCATION="NA",NORM="EXAM:group(1)"
+
+//date
+RULENAME="cm_rDate",REGEXP="\b(?i)(\d+(\/\-)\d+(\/\-)\d+)\b",LOCATION="NA",NORM="Date"
+
+
+//remove - Genomics
+//RULENAME="rem_Carrier_excl",REGEXP="(?i)\b(%reACMGRemove)\b",LOCATION="NA",NORM="CARRIER_Remove"
+
+//Exclusion - Labs-Vitals-Biomarker
+//RULENAME="Biomarker_Neg_remv",REGEXP="\b(negative|negativity|neg)\s+(\S+\s+){0,3}for\s+(\S+\s+){0,8}(and|\,)\s+(\S+\s+){0,2}positive for\s+(\S+\s+){0,4}(%reBiomarker)\b",LOCATION="NA",NORM="EXCLUSION_BIOMARKER_Neg"
+//RULENAME="Biomarker_Pos_remv",REGEXP="\b(positive|positivity|pos)\s+(\S+\s+){0,3}for\s+(\S+\s+){0,8}(and|\,)\s+(\S+\s+){0,2}negative for\s+(\S+\s+){0,4}(%reBiomarker)\b",LOCATION="NA",NORM="EXCLUSION_BIOMARKER_Pos"
+
+

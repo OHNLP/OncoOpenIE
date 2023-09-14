@@ -1,0 +1,265 @@
+primary cutaneous acral cd8\+ t(\-|\s*)cell lymphoma
+B(\s*|\-)cell prolymphocyt\w{0,5} (leukemia|leukaemia)\w{0,2}
+prolymphocytic leukemia\w{0,2}(\W)?\s*B(\s*|\-)cell
+Prolymphocytic leukemia(\W)?(\s+\S+){0,1}\s*B(\s*|\-)cell 
+Leukemia(\W)?\s*B(\s*|\-)Cell Prolymphocytic
+Leukemia(\W)?\s*Prolymphocytic(\W)?\s*B(\s*|\-)Cell
+B Prolymphocytic Leukemia
+Leukemia\w{0,2}(\W)?\s*B(\s*|\-)Cell Prolymphocytic
+B(\s*|\-)cell type prolymphocytic leukemia
+unspecified b cell lymphoma
+b cell unclassifiable with features intermediate between dlbcl and hodgkin
+B(\-|\s*)cell lymphoma(\W)?\s*unclassifiable(\W)?\s*with features intermediate between diffuse large B(\-|\s*)cell lymphoma and Burkitt lymphoma(\W)?
+B(\-|\s*)cell lymphoma(\W)?\s*unclassifiable(\W)?\s*with features intermediate between dlbcl and hodgkin
+other b(\-|\s*)lineage neoplasm
+Breast implant associated anaplastic large cell lymphoma
+chronic lymphocytic leukemia
+small lymphocytic lymphoma 
+cll
+sll
+diffuse large b(\-|\s*)cell lymphoma
+dlbcl
+DLBCL associated with chronic inflammation
+diffuse large b(\-|\s*)cell lymphoma associated with chronic inflammation
+ebv(\-|\s*)positive diffuse large b(\-|\s*)cell lymphoma
+ebv\(\+\)\s*dlbcl
+EBV muco cutaneous
+EBV+ mucocutaneous ulcer
+enteropathy(\-|\s+)associated t(\-|\s+)cell lymphoma
+primary cutenaous gamma(\-|\s*)delta tcl
+primary cutaneous gamma(\-|\s*)delta t(\-|\s*)cell 
+gamma(\W)?delta t(\-|\s*)cell
+primary cutaneous gamma delta t(\-|\s*)cell 
+t(\-|\s*)cell lymphoma (\W)?gamma(\W)?delta(\W)?
+hairy cell leukaemia
+Leukaem reticuloendotheliosis
+Leukemic reticuloendotheliosis
+Leukemia\, Hairy cell
+cells hairy leukemia
+Hairy cell leukemia NOS
+Hairy cell leukemia
+HAIRY CELL LEUKEMIA
+Leukaemic reticuloendotheliosis NOS
+reticuloendotheliosis\; leukemic
+Hairy cell leukaemia
+hairy\-cell leukemia
+Leukaemic reticuloendotheliosis of unspecified sites
+Leukemic reticuloendotheliosis of unspecified sites
+Leukemic reticuloendoth\. NOS
+hairy T cell leukemia
+Hairy\-cell leukaemia
+Leukemia\w{0,1}(\W)?\s*Hairy Cell
+Leukaemic reticuloendotheliosis
+leukemia hairy cell
+Leukaemic reticuloendoth. NOS
+Leukaem reticuloendothelsis
+LRE - Leukemic reticuloendotheliosis
+Leukemic reticuloendotheliosis NOS (disorder)
+Leukemia\s*(\W)?\s*hairy cell
+hairy\-cell leukaemia
+Hairy Cell Leukemias
+Reticuloendotheliosis\, Leukemic
+Leukaemic reticuloendotheliosis
+Leukaem reticuloendothelsis
+Leukemic reticuloendotheliosis
+Leukemic Reticuloendotheliosis
+cell hairy leukemia
+RETICULOENDOTHELIOSIS\, LEUKEMIC
+Hairy cell leukemia
+Leukemic Reticuloendothelioses
+Hairy cell leukemia
+HAIRY CELL LEUKAEMIA
+hairy cell leukemia
+Leukemic reticuloendotheliosis
+LEUKEMIA HAIRY CELL
+leukemic\; reticuloendotheliosis
+Reticuloendothelioses\, Leukemic
+LRE\-Leuk reticuloendotheliosis
+Leukemia\, Hairy Cell
+Leukemic reticuloendotheliosis of unspecified sites
+Leukemia\, hairy cell
+Hairy\-cell leukemia
+Leukemic reticuloendotheliosis
+Leukaemic reticuloendotheliosis
+Hairy cell leukemia
+Hairy cell leukaemia
+leukemia hairy\-cell
+LRE \- Leukaemic reticuloendotheliosis
+leukaemia hairy cell
+hairy cell leukemia
+HGBCL
+high(\-|\s*)grade b(\-|\s*)cell lymphoma
+high(\-|\s*)grade b(\-|\s*)cell lymphoma with myc(\W)?\s*bcl2
+HGBCL with myc(\W)?\s*bcl2
+Hydroa vacciniforme(\-|\s*)like LPD
+Other immunodeficiencyassociated lymphoproliferative disorder
+indolent t-cell lymphoproliferative disorder of the gi tract
+anaplastic large cell lymphoma(\W)?\s*alk(\-|\s*)negative
+anaplastic large cell lymphoma(\W)?\s*alk(\-|\s*)positive
+Large B(\-|\s*)Cell Lymphoma
+low(\-|\s*)grade b(\-|\s*)cell lymphoma
+other lymphoid neoplasm
+Malignant lymphoma(\W)? lymphoplasmacytic
+Mal lymphoma(\W)? lymphoplasmacyt
+Malignant lymphoma \- lymphoplasmacytic
+Malignant lymphoplasmacytoid type lymphoma
+Lymphoplasmacytoid Lymphoma
+Malignant lymphoma \- lymphoplasmacytic
+malignant neoplasm lymphoma lymphoplasmacytic
+Diffuse lymphosarcoma with plasmacytoid differentiation
+Malignant lymphoma\, lymphoplasmacytoid type
+lymphoma(\W)? plasmacytic
+malignant lymphoplasmacytic lymphoma
+Diffuse lymphosarcoma(\W)? lymphoplasmacytic
+Lymphoplasmacytic Lymphoma
+LYMPHOMA(\W)? LYMPHOPLASMACYTIC(\W)? MALIGNANT
+Malignant lymphoma(\W)? lymphoplasmacytoid type
+Immunocytoma(\W)? Lymphoplasmacytic Type
+immunocytoma
+lymphoplasmacytic lymphoma
+Malignant lymph-lymphoplasmac
+Malignant lymphoma(\W)? plasmacytoid
+Plasmacytic lymphoma
+plasmacytic(\W)? lymphoma
+Lymphoma(\W)? Plasmacytic
+Malignant lymphoma(\W)? lymphoplasmacytoid
+Malignant lymphoma(\W)? lymphocytic(\W)? with plasmacytoid differentiation(\W)? diffuse
+lymphoplasmacytoid(\W)? lymphoma
+Malignant lymphoma(\W)? lymphoplasmacytic
+Malig(\W)?\s*lymph(\W)?\s*lymphoplasmacyt
+Immunocytoma
+Malig(\W)?\s*lymph(\W)?\s*lymphoplasmacyt
+Lymphoplasmacytic lymphoma
+malignant lymphoplasmacytic lymphoma
+lymphoma(\W)?\s* lymphoplasmacytoid
+Primary Macroglobulinemia
+Waldenstrom Macroglobulinemia
+macroglobulinemia waldenstrom
+Lymphoplasmacytic Lymphoma(\W)?\s*Waldenström Macroglobulinemia
+Waldenstrom macroglobulinaemia
+Waldenstrom\'s macroglob\'naemia
+Waldenström Macroglobulinemia
+waldenstrom macroglobulinemia
+[M]Waldenstrom\'s macroglobulinaemia
+Waldenstrom\'s macroglobulinemia
+Waldenström macroglobulinemia
+Lymphoma(\W)?\s*Lymphocytic(\W)?\s*Plasmacytoid
+MACROGLOBULINEMIA(\W)?\s*WALDENSTROM
+Waldenstrom\'s macroglobulinemia NOS
+Primary macroglobulinaemia
+Waldenstrom macroglobulinemia
+Waldenstrom\'s Macroglobulinemia
+Lymphoplasmacytic Lymphoma(\W)?\s*Waldenström\'s Macroglobulinemia
+Waldenström(\W)?\s*macroglobulinemia
+Waldenstrom\'s macroglobulinaemia
+Lymphomas(\W)?\s*Lymphoplasmacytoid
+Von Waldenstrom macroglobulinemia
+macroglobulinemia waldenstrom\'s
+Macroglobulinemia(\W)?\s*Waldenstrom
+Waldenstroms Macroglobulinaemia
+Macroglobulinaemia
+Macroglobulinemia(\W)?\s*Primary
+Macroglobulinaemia(\W)?\s*Waldenstrom\'s
+Macroglobulinemia
+Waldenström macroglobulinaemia
+Waldenstrom\'s macroglobulinemia
+[M]Waldenstrom\'s macroglobulinemia
+Macroglobulinaemia NOS
+Waldenstrom\'s macroglobulinemia
+Waldenstrom\'s macroglobulin
+plasmacytoma(\W)?\s*macroglobulinemia
+macroglobulinaemia
+Waldenstrom\'s macroglobulin
+Waldenstrom\'s macroglobulinaemias
+Macroglobulinemia NOS
+macroglobulinemia
+Macroglobulinemia
+macroglobulinemia(\W)?\s*Waldenström
+Lymphoplasmacytoid Lymphoma
+Waldenstroms Macroglobulinemia
+Waldenstrom\'s Macroglobulinaemia
+waldenstroms macroglobulinemia
+Macroglobulinemia NOS
+Waldenstrom Macroglobulinaemia
+waldenstrom\'s macroglobulinemia
+Macroglobulinemia(\W)?\s*Waldenstrom\'s
+Lymphoplasmacytoid Lymphomas
+Waldenström macroglobulinemia
+Waldenstrom\'s macroglobulinaem
+Waldenström\'s macroglobulinemia
+Immunocytoma(\W)?\s*Lymphoplasmacytic Type
+lymphoplasmacytic lymphoma
+Waldenstrom\'s macroglobulinaemia NOS
+waldenstrom\'s macroglobulinaemia
+Primary macroglobulinemia
+Von Waldenstrom macroglobulinaemia
+Waldenström macroglobulinemia
+WALDENSTROMS MACROGLOBULINEMIA
+macroglobulinemia waldenstroms
+Waldenstrom\'s macroglobulinemia
+Lymphoma(\W)?\s*Lymphoplasmacytoid
+[M]Waldenstrom\'s macroglobulinaemia
+Waldenström macroglobulinaemia
+lymphoplasmacytoid lymphoma
+macroglobulinemia(\W)?\s*Waldenström\'s
+Extranodal marginal zone
+MALT
+extranodal natural killer t cell lymphoma nasal type
+extranodal nk(\W)?t cell lymphoma(\W)?\s*nasal type
+lymphoma(\s+\S+){0,8}\s*abnormal NK(\s*|\-)cell
+peripheral t(\-|\s*)cell lymphoma
+peripheral t(\-|\s*)cell lymphoma(\W)?\s*with t(\-|\s*)follicular helper (TFH) 
+peripheral t(\-|\s*)cell lymphoma(\W)?\s*with(\s+\S+){0,5}\s*(\W)?TFH(\W)? 
+primary cutaneous diffuse large B(\-|\s*)cell lymphoma(\W)? leg type
+cutaneous B(\-|\s*)cell lymphoma(\W)?\s*follicular center
+primary central nervous system lymphoma
+primary CNS lymphoma
+CNS lymphoma\, primary
+sezary syndrome
+splenic B(\-|\s*)cell lymphoma
+leukemia\, unclassifiable
+Splenic diffuse red pulp small B(\s*|\-)cell lymphoma
+Splenic Marginal Zone Lymphoma
+Marginal Zone Lymphoma of Spleen
+Splenic Marginal Zone B-Cell Lymphoma
+marginal zone lymphoma of the spleen
+Splenic lymphoma with villous lymphocytes
+SLVL
+lymphoma splenic marginal zone
+Splenic marginal zone lymphoma\, NOS
+Margin zone lymph spleen
+Splenic lymphoma with villous lymphocytes
+marginal zone lymphoma of spleen
+Marginal zone lymphoma\, spleen
+Splenic marginal zone B-cell lymphoma
+Marginal zone lymphoma of spleen
+Splenic lymphoma with villous lymphocytes
+marginal zone B-cell lymphoma of spleen
+Splenic marginal zone B-cell lymphoma
+marginal zone B-cell lymphoma of spleen
+SMZL
+Splen lymphom with vill lympho
+splenic marginal zone B\-cell lymphoma
+leukemia lymphocytic chronic splenic with villous lymphocytes
+marginal zone splenic lymphoma
+Splenic Marginal Zone B\-Cell Lymphoma with Villous Lymphocytes
+Splenic marginal zone B\-cell lymphoma
+Marginal zone lymphoma involving spleen
+Splenic Marginal Zone Lymphoma with Villous Lymphocytes
+Splenic Lymphoma with Circulating Villous Lymphocytes
+Splenic marginal zone lymphomas
+Splenic marginal zone lymphoma NOS
+splenic marginal zone lymphoma
+Marginal zone lymphoma of spleen
+Marginal Zone Lymphoma of the Spleen
+Splenic marginal zone lymphoma
+Subcutaneous panniculitis(\-|\s*)like T\s*cell lymphoma
+systemic ebv positive tcl of childhood
+T(\-|\s+)cell(\/|\s*)histiocyte(\-|\s+)rich(\s+\S+){0,3}\s*B(\-|\s+)cell lymphoma
+(T|NK)(\-|\s+)cell large granular lymphocyt\w{0,3} leukemia
+Primary cutaneous CD4\+ small\/medium T\-cell LPD
+T(\-|\s*)cell prolymphocytic leukemia
+intravascular(\s+\S+){0,3}\s*large B(\-|\s*)cell
+
+
+

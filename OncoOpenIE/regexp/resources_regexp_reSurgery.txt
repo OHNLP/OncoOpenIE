@@ -1,0 +1,17 @@
+lung surgery
+cancer surgery
+surgery
+definitive\s*surgery
+definitive\s*breast\s*surgery
+lumpectomy
+mastectomy
+pneumonectomy
+bi(\-|\s*)lobectomy
+(lung|rib|pulmonary|thoracic|thorax|pleural|bronchial|lobe)(\s+\S+){0,5} (resection|excision)
+(resection|excision)(\s+\S+){0,5} (lung|rib|pulmonary|thoracic|thorax|pleural|bronchial|lobe)
+(lobectomy|pneumonectomy|wedge(\s+\S+){0,5} resection|sleeve resection|Video(\s*|-)assisted thoracic surgery|VATS)
+segmentectomy|wedge(\s+\S+){0,5} resection
+sleeve resection
+Video(\s*|-)assisted thoracic surgery|VATS
+completion(\s+\S+){0,2} pneumonectomy
+

@@ -1,0 +1,10 @@
+stage\s*(one|two|three|four|[123]|I{1,3}|IV)(a|b)?
+(one|two|three|four|[123]|I{1,3}|IV)(a|b)?\s*stage
+early stage
+extensive stage
+late stage
+limited
+metastatic
+metastasis
+mets
+malignan\w{0,3}

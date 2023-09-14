@@ -1,0 +1,32 @@
+stage(\s*|-)(I|1)(\s*|-)a	Stage_Ia
+(I|1)(\s*|-)b(\s*|-)stage	Stage_Ib
+stage(\s*|-)(I|1)(\s*|-)b	Stage_Ib
+(II|2)(\s*|-)a(\s*|-)stage	Stage_IIa
+stage(\s*|-)(II|2)(\s*|-)a	Stage_IIa
+(II|2)(\s*|-)b(\s*|-)stage	Stage_IIb
+stage(\s*|-)(II|2)(\s*|-)b	Stage_IIb
+(III|3)(\s*|-)a(\s*|-)stage	Stage_IIIa
+stage (III|3)(\s*|-)a	Stage_IIIa
+(III|3)(\s*|-)b(\s*|-)stage	Stage_IIIb
+stage(\s*|-)(III|3)(\s*|-)b	Stage_IIIb
+stage(\s*|-)(METASTASIS|Metastatic|IV|4)	Stage_IV
+(METASTASIS|Metastatic|IV|4)(\s*|-)stage	Stage_IV
+Metastatic(\s*|-)(Adenocarcinoma|Adenosquamous|Carconoid typical \/atypical|Large \/  larger neuroendocrine|Non(\s*|-)small(\s*|-)cell|Squamous|carcinoid|moderate differentiation)	Stage_IV
+Metastatic(\s*|-)lung cancer	Stage_IV
+(late(\s*|-)Stage)	Stage_Late stage
+(early(\s*|-)Stage)	Stage_Early stage
+(extensive)(\s*|-)stage	Stage_Extensive
+Metastatic(\s*|-)small(\s*|-)cell	Stage_Extensive
+stage(\s*|-)(extensive)	Stage_Extensive
+extensive(\s*|-)stage	Stage_Extensive
+(Limited)(\s*|-)stage	Stage_Limited
+stage(\s*|-)(Limited)	Stage_Limited
+stage(\s*|-)(I|1)	Stage_I
+(I|1)(\s*|-)stage	Stage_I
+stage(\s*|-)(II|2)	Stage_II
+
+
+
+
+
+

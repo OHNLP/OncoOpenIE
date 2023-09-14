@@ -1,0 +1,10 @@
+estrogen	ER
+er	ER
+estrogen.recptors?	ER
+pr	PR
+progesterone.recptors?	PR
+progesterone	PR
+her-?2	HER
+neu	HER
+cneu	HER
+epidermal.growth.factor.receptors?	HER

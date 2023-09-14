@@ -1,0 +1,5 @@
+variant of (uncertain|unknown) significance
+VUS
+VOUS
+\(VUS\)
+(uncertain|unknown) significance

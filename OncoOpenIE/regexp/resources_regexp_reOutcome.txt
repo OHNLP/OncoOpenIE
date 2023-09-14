@@ -1,0 +1,18 @@
+(complete)(\s+\S+){0,2} (response|remission)
+decreased(\s+\S+){0,5}\s*disease
+marked reduction
+(no evidence of active disease|negative\w{0,5}\s*PET scan|PET scan\w{0,5}\s*negative)
+PR
+(remarkable|partial|positive|excellent|dramatic|markedly smaller|enough of a|good|apparent|significant|nice|much|some|near complete)(\s+\S+){0,2} (response|remission)
+(respond)\w{0,5}\s*(well|nicely|favorably)
+(regression|residual)(\s+\S+){0,5}\s*(cancer|disease|tumor|adenopathy)
+(shrink|shrank|shrunk)(\s+\S+){0,3}\s*(cancer|disease|tumor|adenopathy)
+(cancer|disease|tumor|adenopathy)(\s+\S+){0,3}\s*(shrink|shrank|shrunk)
+(mixed response|progress\w{0,5}|in response to an increase)(\s+\S+){0,5}\s*(cancer|disease|tumor|adenopathy)
+stable disease
+recur\w{0,5}
+relapse 
+No(\s+\S+){0,2} (response|remission)|Stable
+Minimal(\s+\S+){0,2} (response|remission)
+stringent complete(\s+\S+){0,2} (response|remission)
+near complete(\s+\S+){0,2} (response|remission)

@@ -1,0 +1,29 @@
+c\.\d{3,4}(\W)?\d{0,2}(A|G|T|C)\>(A|G|T|C)
+c\.\d{2,4}(\W)?\d{2,4}(del|dup|ins)\w{0,12}
+c\.\d{2,4}(\W)?\d{2,4}(del|dup|ins)\d{3,12}
+c?(\.)?\d{3,4}(del|ins)\w{1,3}
+\d{3,4}(del|ins)\d{1,3}
+c\.\d{2,4}\_\d{2,4}(del|dup|ins|in)\w{0,12}
+c\.\d{2,4}(dup|del)\w{0,3}
+del exon\w{0,1}\s*\d{1,2}\-\d{1,2}
+exon \d+ deletion
+EX\d+del
+EX\d+\_\d+(dup|del)
+c\.\d+(A|T|G|C)\>(A|T|G|C)
+c\.\d{4}\w{2,6}
+c\.\d{2,5}\_\d{2,5}\s*(del|dup)\w{0,12}
+c\.\d{1,4}\+\d{1,3}del(A|G|T|C)
+c\.\d{1,4}\_\d{1,4}\+\d{1,3}del\d{1,3}
+Deletion\s*\(?Exon\w{0,2}\s*\d+\)?
+del exon \d{1,3}
+exon \d{1,3} deletion
+exon\w{0,2} \d+\-\d+
+exon\: \d{1,3}
+gain exon \d+
+missense variant lof
+IVS\d+(\+|\-)\d+(A|G|T|C)\>(A|G|T|C)
+IVS\d\+\(?\d+\_\d+\)?del\w{1,5}
+IVS\d\+\d(\W)?\s*(A|G|T|C)\>(A|G|T|C)
+\d{3,5}(A|T|G|C)\>(A|T|G|C)
+\d{3,5}\_\d{3,5}(del|dup)\w{4,12}
+5\'\w{2,4}\_\w{1,3}\d{1,3}(del|dup)

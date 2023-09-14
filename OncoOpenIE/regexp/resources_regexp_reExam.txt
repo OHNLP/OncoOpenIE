@@ -1,0 +1,9 @@
+Bronchoscopy
+biopsy
+CT
+PET
+x(\-)?ray
+Lobectomy
+Thoracotomy
+pathology
+path

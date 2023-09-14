@@ -1,0 +1,9 @@
+regex:de\s*novo\s*metasta\w{0,5}
+regex:intact\s*primary
+regex:de\s*novo\s*breast
+regex:de\s*novo\s*stage
+regex:intact\s*primary
+regex:stage\s*(IV|4)\(\s+\S+){0,4}\s*at\s*(presentation|diagnosis)
+regex:de\s*novo\s*her\s*2
+regex:de\s*novo(\s+\S+){0,15}\s*breast
+regex:breast(\s+\S+){0,15}\s*de\s*novo

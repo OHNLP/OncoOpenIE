@@ -1,0 +1,15 @@
+//transplant_type
+ABM|Allogeniec｜allogenic|allograft|allo PBSCT|allo SCT					
+auto transplant|auto SCT|ASCT|Autologous|PCS BM TRANSPLANT|auto PBSCT|autologous PBSCT
+PBC|PB stem cell collection
+(re)?infus\w{0,5}|receiv\w{0,5})(\s+\S+){0,5} (cell\w{0,2}|half|third)
+(cell\w{0,2}|half|third)(\s+\S+){0,5} ((re)?infus\w{0,5}|receiv\w{0,5})
+(stem cell\w{0,2}\s*(transplant)?|PBSCT|transplant)
+// his stem cells--PBM
+((re)?infus\w{0,5}|receiv\w{0,5})(\s+\S+){0,5} (his|her|own)(\s+\S+){0,2} (stem cell\w{0,2})
+(his|her|own)(\s+\S+){0,2} (stem cell\w{0,2})(\s+\S+){0,5} ((re)?infus\w{0,5}|receiv\w{0,5})
+//family, brother, sister, parent, chil, son, daughter, mother, father' blood, donor---ABM
+(((re)?infus\w{0,5}|receiv\w{0,5})(\s+\S+){0,5} (family|brother|sister|parent|child|children|son|daughter|mother|father|donor)(\s+\S+){0,3} (blood|stem cell\w{0,2}))
+(((re)?infus\w{0,5}|receiv\w{0,5})(\s+\S+){0,5} (blood|stem cell\w{0,2})(\s+\S+){0,3} (family|brother|sister|parent|child|children|son|daughter|mother|father|donor))
+((family|brother|sister|parent|child|children|son|daughter|mother|father|donor)(\s+\S+){0,3} (blood|stem cell\w{0,2})(\s+\S+){0,5} ((re)?infus\w{0,5}|receiv\w{0,5}))
+((blood|stem cell\w{0,2})(\s+\S+){0,3} (family|brother|sister|parent|child|children|son|daughter|mother|father|donor)(\s+\S+){0,5} ((re)?infus\w{0,5}|receiv\w{0,5}))

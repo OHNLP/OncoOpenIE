@@ -1,0 +1,79 @@
+(testing for|risk|male|female|tend to|found to cause|caused by|pursue testing|test facilitation|if|consider testing|typically|those who|somewhere|individual|estimated|\%|preconception|stud\w{0,4}|sometimes|\d+(\%)? chance|approximate|discuss|review|frequency|men|women|recommend|consider|rate)\w{0,5}
+not
+no
+negative
+absence
+absent
+\-
+negative for mutation\w{0,2}
+no mutation\w{0,2}
+tissue mutation
+(IHC|immunohistochemistry)(\W)?
+B-ALL
+CLL
+FISH
+Foundation Medicine
+Guardant(\w+)?(\d+)?
+IDH
+IHC
+Immunochemical stains
+Immunohistochemical stain
+MDS
+Microsatellite instability testing
+\w{3,20}oma(\W)?
+adenocarcinoma
+biopsy
+bone marrow
+cancer
+carcinoma
+cycle
+foundation(\s*)One
+foundationOne
+guardant360
+immunostain
+immunostain\w{0,2}
+leukemia
+lymphoma
+metastas\w{0,5}
+microsatellite
+molecular
+myelodysplastic syndrome
+oncogene
+patholog\w{0,5}
+pathology
+radiation
+resection
+somatic
+tempus
+therapy
+tissue mutation
+tissue\w{0,2}
+treatment
+tumor
+tumor\w{0,2}
+wild
+wild type
+wild-type
+screen|possible
+famil\w{0,5}
+##combine the following and items in post-processing file into ACMGRemove
+Negation
+Discussion
+TissueMutation
+FH
+(niece|nephew|wife|husband|family members|\bmother\b|father|sister|brother|\bson\b|daughter|grandma|grandpa|grand(\-|\s*)mother|grandgrand(\-|\s*)father|grandgrand(\-|\s*)parent|grand(\s*|\-)(son|daughter|child)|child|sibling|offspring|relative|parent|cousin|aunt|uncle)\w{0,3}(\W)?\w{0,3}(\s+\S+){0,25}\s*(mutat\w{0,5}|deletion|carrier|variant|abnormal\w{0,5}|alteration|positive|\+|defect|absence)
+(mutat\w{0,5}|deletion|carrier|variant|abnormal\w{0,5}|alteration|positive|\+|defect|absence)\w{0,3}(\W)?(\s+\S+){0,25}\s*(family members|mother|father|sister|brother|son|daughter|grandma|grandpa|grandmother|grandfather|grandparent|grand(\s*|\-)(son|daughter|child)|child|sibling|offspring|relative|parent|cousin|aunt|uncle|wife|niece|nephew)\w{0,3}
+(Immunochemical stains|molecular|microsatellite|guardant(\w+)?(\d+)?|tempus|guardant360|oncogene|tumor|FoundationOne|immunostain|Foundation Medicine|IHC|Immunohistochemical stain|Microsatellite instability testing|tissue mutation|biopsy|FISH|pathology|somatic|carcinoma|wild type|tumor)\w{0,5}
+mutation\w{0,2}(\s+\S+){0,2}\s*with(\s+\S+){0,2}\s*family history
+treatment|cycle|therapy|tumor
+(probability|possibility)(\s+\S+){0,2}\s*carry\w{0,5}|elected to pursue|inherited in an autosomal dominant|foundation one
+potential(\s+\S+){0,2}\s*[A-Z]{1,5}\d{0,3}[A-Z]{0,2}
+//[A-Z]{1,5}\d{0,3}[A-Z]{0,2}\W\s*[A-Z]{1,5}\d{0,3}[A-Z]{0,2}\W\s*(\s+\S+){0,2}\s*[A-Z]{1,5}\d{0,3}[A-Z]{0,2}
+in general|been identified as|due to mutation
+(most commonly identified|account for|can be increased|most common cause|frequently associated|(is|are) associated|been associated with|wonder\w{0,2}|Fam Hx|leukemia|lymphoma|karyotype|bone|marrow|due to mutations|likelihood(\s+\S+){0,8}\s*low|syndrome is due to|no abnormalit\w{0,5}|otc tx|stool softeners|(weight|wt|wgt) loss|diet|decreased APC|APC treatment|protein(\s+\S+){0,3}\s*(\W)?APC|risk|male|female|tend to|found to cause|caused by|pursue testing|test facilitation|if|consider testing|typically|those who|somewhere|individual|estimated|\%|preconception|stud\w{0,10}|sometimes|\d+(\%)? chance|approximate|discuss|review|frequency|men|women|recommend|consider|rate)\w{0,5}
+(been associated with|wonder\w{0,2}|Fam Hx|order|leukemia|lymphoma|karyotype|bone|marrow|due to mutations|likelihood(\s+\S+){0,8}\s*low|syndrome is due to|no abnormalit\w{0,5}|otc tx|stool softeners|(weight|wt|wgt) loss|diet|decreased APC|APC treatment|protein(\s+\S+){0,3}\s*(\W)?APC|risk|male|female|tend to|found to cause|caused by|pursue testing|test facilitation|if|consider testing|typically|those who|somewhere|individual|estimated|\%|preconception|stud\w{0,10}|sometimes|\d+(\%)? chance|approximate|discuss|review|frequency|men|women|recommend|consider|rate)\w{0,5}
+(duplication|mutation|deletion|sequenc\w{0,5})\w{0,2}(\W)?(\s+\S+){0,5}\s*negative|negative for (mutation|mutations)|no mutation\w{0,2}|not identify(\s+\S+){0,5}\s*mutation\w{0,3}
+(probability|possibility)(\s+\S+){0,2}\s*carry\w{0,5}|elected to pursue|inherited in an autosomal dominant|foundation one
+potential(\s+\S+){0,2}\s*[A-Z]{1,5}\d{0,3}[A-Z]{0,2}
+in general|been identified as|due to mutation
+PATIENT CLINIC NUMB

@@ -1,0 +1,68 @@
+Acinar adenocarcinoma
+Adenocarcinoma
+Adenocarcinoma in situ
+Adenoid cystic carcinoma
+Adenosquamous
+Basaloid squamous cell carcinoma
+Colloid adenocarcinoma
+Combined large cell neuroendocrine
+Combined small cell
+Enteric adenocarcinoma
+Epithelial-myoepithelial carcinoma
+Fetal adenocarcinoma
+Giant cell carcinoma
+Invasive mucinous adenocarcinoma
+Keratinizing squamous cell carcinoma
+LCNEC
+LCNEM
+Large cell
+Large cell neuroendocrine
+Large neuroendocrine
+Lepidic adenocarcinoma
+Lymphoepithelioma-like carcinoma
+Micropapillary adenocarcinoma
+Minimally invasive adenocarcinoma
+Mixed invasive mucinous adenocarcinoma
+Mixed invasive nonmucinous adenocarcinoma
+Mucoepidermoid carcinoma
+NSCC
+NSCC NOS
+NUT carcinoma
+Non(\s*|-)small(\s*|-)cell
+Nonkeratinizing squamous cell carcinoma
+Nuclear protein in testis carcinoma
+Papillary adenocarcinoma
+Pleomorphic carcinoma
+Preinvasive lesion
+Preinvasive lesions
+Pulmonary blastoma
+Salivary gland-type
+Sarcomatoid
+Solid adenocarcinoma
+Spindle cell carcinoma
+Squamous
+atypical carcinoid
+bronchoalveolar carcinoma
+carcinoid
+cardinoma NOS
+large cell
+larger neuroendocrine
+neuroendocrine
+small(\s*|-)cell
+typical carcinoid
+Adenosquamous
+combined small cell
+Neuroendocrine|large(\s*)cell|large(\s*)cell(\s*)neuroendocrine
+Non(\s*|-)small(\s*|-)cell|NSCC|NSCC NOS|large cell
+small(\s*|-)cell
+(squamous|squanous)\W? (\S+\s+){0,15}(carcinoma|cancer)
+(carcinoma|cancer)\W? (\S+\s+){0,15}(squamous|squanous)
+(spindle cell carcinoma|Pleomorphic carcinoma|Pulmonary blastoma|Giant cell carcinoma|Lymphoepithelioma(\s+|\-)like carcinoma|Nuclear protein in testis carcinoma|NUT carcinoma|Salivary gland-type|Mucoepidermoid carcinoma|Adenoid cystic carcinoma|Epithelial-myoepithelial carcinoma)
+bronchioloalveolar carcinoma|bronchoalveolar carcinoma
+atypical epithelial cell
+Squamous cell carcinoma in situ|In situ squamous cell carcinoma
+Adenocarcinoma in situ
+Sarcomatoid
+(Carcinoma|adenocarcinoma|small cell|non(\-|\s+)cell)\W? (\S+\s+){0,5}lung primary
+bronchogenic carcinoma
+monophasic synovial sarcoma

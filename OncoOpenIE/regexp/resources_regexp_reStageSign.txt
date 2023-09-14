@@ -1,0 +1,16 @@
+adjuvant
+distant
+hospice
+hydronephrosis
+infiltr\w{0,5}
+invasi\w{0,5}
+lvi
+neoadjuvant
+palliative
+penetrat\w{0,5}
+pyelogram
+resect\w{0,5}
+superficial
+terminal
+unresect\w{0,5}
+preinvasive lesion

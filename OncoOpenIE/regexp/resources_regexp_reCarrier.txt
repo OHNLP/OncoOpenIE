@@ -1,0 +1,10 @@
+abnormal\w{0,5}
+absen\w{0,5}
+alter\w{0,5}
+carr\w{0,5}
+defect\w{0,5}
+delet\w{0,5}
+los\w{0,5}
+mutat\w{0,5}
+pos\w{0,7}
+varia\w{0,5}

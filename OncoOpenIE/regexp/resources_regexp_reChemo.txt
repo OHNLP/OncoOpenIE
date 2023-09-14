@@ -1,0 +1,240 @@
+chemo
+chemotherapy
+combined-modality
+combined modality
+cycle
+plantinum
+cisplatin
+carboplatin
+oxaliplatin
+phenanthriplatin
+pemetrexed
+Alimta
+xalkori
+crizotinib
+avastin
+bevacizumab
+gemzar
+gemcitabine
+navelbine
+vinorelbine tartrate
+vinorelbine
+taxol
+Paclitaxel
+docetaxel
+Taxotere
+Tarceva|erlotinib
+Denosumab
+Prolia
+Tagrisso
+osimertinib
+Nivolumab
+Opdivo
+alectinib
+alecensa
+Abraxane
+2\-CDA
+2\-ME\-2
+Anti\-1D10|A1D1
+Adriamycin
+AMSA
+ANA|Kineret|Anakinra
+AZQ
+Carmustine|BCNU					 
+BEN|Treanda|BENDAMUSTINE
+BEV|Avastin|Bevacizumab									 
+BEXX|Bexxar
+BIA|Biaxin
+BMS|BMS\-936558
+C501|CDC\-501
+CAM|Campath
+CAR|KYPROLIS|Carfilzomib
+CAR\-T
+Pom|Pomalidomide|POMALYST|CC4047									 
+CEL|Celecoxib
+CHL|Leukeran|Chlorambucil
+CHOP
+R(\-)?CHOP
+Rituxan(\-)?COP
+CIS|CISPLATIN
+CLA|2CDA|Cladribine	 		 			
+CNT|Anti\-IL\-6 monoclonal antibody|CNTO 328
+COL|Colchicine
+CP751
+CTM|CYCLOPHOPHAMIDE MBLZ
+CTX|Cyclophosphamide|Cytoxan|cy 							 
+CVAD
+CYT|CYTARABINE
+DAR|DARATUMUMAB|DARZALEX					
+Dex|Decadron|Dexamethasone
+DIF|Diflunisol
+DOX|doxorubicin|Doxil
+DTP|DT PACE
+ELO|EMPLICITI|ELOTUZUMAB				 
+ENB|Enbrel
+ENMD\-0995
+EVE|rad001|Everolimus
+FAMP
+FIB|Fibrillex
+FLA|Flavopiridol		 
+FLU|Fludarabine
+FTI
+FXA|TAFAMADIS|FX\-1006A						 
+GCM|GROWTH FACTOR MBLZ
+GEN|Genesense					
+GLE|Gleevec
+IBR|IMRUVICA|IBRUTINIB
+Idox				
+IFN|Interferon
+IL(-)?4
+INO|INOTERSEN					
+INT|Interleukin 12
+M08|IXAZOMIB|NINLARO|MLN9708|ixa				
+M37|MLN8237				 
+Methylprednisolone|Solu\-Medrol|Medrol
+MEL|Melphalan|LPAM|L\-PAM|ALKERAN					
+Methotrexate					
+MVN|MV\-NIS MEASLES
+NAPA				
+NAT|Natalizumab							 
+NEO|NEOD001
+NMA|Mini\-sct					
+OFA|ARZERRA|OFATUMUMAB							 
+PAN|FARYDAK|PANOBINOSTAT
+PAT|PATISIRAN
+PEM|KEYTRUDA|PEMBROLIZUMAB
+PLERIXIFOR MOBILIZTN				
+PHE|Phenylacetate	
+plasma exchange|Plasmapherisis
+//Prednisone					
+PRO|PROMACE\-CYTABOM						 
+QUA|Quadramet
+RAD|Radiation|radiotherapy					
+REV|CC\-5013|Lenalidomide|Revlimid						 
+RIT|Rituxan|ritux
+SCH|DINACICLIB|SCH727965					
+SDZ|SDZ PSC 833
+SNS01\-T				
+SOR|Sorafenib			 
+Sutent|Sunitinib|SU11248|Sunitinib malate
+TAX|PACLITAXEL|Taxol					
+THA|Thalidomide						 
+TXT|Taxotere
+URE|Urethane				
+VAD
+VBAP
+VBMCP					
+VCD|Bortezomib|Velcade		 
+VCR|ONCOVIN|Vincristine
+VDT\-PACE
+VDT\-ACE				
+VEN|ABT 199|VENETOCLAX|venclexta				 
+//VITE|Vitamin E
+VLB|velban|Vinblastine				
+VM26 						 
+Etoposide|VP\-16
+Oprozomib	
+VRD
+CyBorD|CyBor\-D
+VMP
+PRE
+cladribine|leustatin|2CDA|leustatin
+alefecept|LFA3TIP|Amevive
+alemtuzumab|anti CD52|Campath
+carmustine|BCNU|BiCNU|Becenum|Carmubris
+bendamustine|Benda|Treanda
+bleomycin sulfate|BLEO|BLM|Blenoxane
+bortezomib|PS-341|Velcade
+brentuximab|SGN\-35|Adcetris
+carboplatin|CBDCA|Paraplatin
+chlorambucil|Leukeran
+cisplatin|CDDP|Platinol
+CPG|agatolimod sodium|CPG|CPG 7909
+cyclophosphamide|CTX|Cytoxan|Neosar|Clafen
+cyclosporin|CsA|CYSP|Neoral|Sandimmun
+cytarabine|ARA\-C|Cytosar\-U
+dacarbazine|DTIC|DTIC\-Dome
+daunorubicin|rubiomycin|Cerubidine
+dexamethasone|DXM|dex|Decadron|Dexasone|Diodex
+doxorubicin|liposomal|Doxil|dox|Doxil
+doxorubicin|Adriamycin|dox|anthra|Rubex
+etoposide|Toposar|VP\-16|VePesid|Etopophos
+everolimus|RAD001|Afinitor
+fludarabine|fludarabine phosphate|2\-F\-ara\-AMP|Fludara
+gemcitabine|gemcitabine hydrochloride|LY\-188001|dFdC|Gemzar
+methotrexate|MTX|Rheumatrex|Trexall
+ifosfamide|IFF|IFO|IFX|IPP|Ifex|Cyfos|Ifosfamidum
+interferon alfacon\-1|CIFN|Infergen
+intrathecal methotrexate methotrexate|MTX|Rheumatrex|Trexall
+lenalidomide|Rev|Len|Revlimid
+leucovorin|leucovorin|LV
+mechlorethamine|mechlorethamine hcl|mechlorethamine hydrochloride|NM|HN2|chloramin|mustard|Mustargen
+melphalan|L\-PAM|L\-Sarcolysin|Alkeran
+methotrexate|MTX|Rheumatrex|Trexall
+mitoxantrone|mitoxantrone hydrochlorideDHAD|DHAQ|Novatrone
+oxaliplatin|1-OHP|L-OHP|Eloxatin
+panobinostat|LBH\-589|Faridak
+pentostatin|DCF|Nipant
+prednisone|pred|Deltasone|Meticorten
+procarbazine|Matulane
+rapamycin|RAPA|SLM|Rapamune
+rituximab|IDC-C2B8|Rituxan|MabThera
+methylprednisolone|MePRDL|Solu\-medrol|Medrol|Duralone|Medralone
+sorafenib|tosylate|SFN|Nexavar
+bexarotene|LGD1069|Targretin
+temozolomide|TMZ|Temodar|Methazolastone
+temsirolimus|CCI\-779|Torisel
+tipifarnib|R115777|Zarnestra
+tositumomab|Bexxar
+vinblastine|VLB|Alkaban\-AQ|Velbane
+vincristine|VCR|Oncovin
+vinorelbine|vinorelbine tartrate|NVB|VNB|Navelbine
+ibritumomab|tiuxetan|Zevalin
+denileukin difitox|Ontak
+bevacizumab|rhuMAb\-VEGF|Avastin
+dacetuzumab|SGN\-40
+vorinostat|SAHA|Zolzinza
+fostamatinib|fostamatinib disodium|R788 sodium|R935788|fostamatinib
+ofatumumab|Arzerra
+iratumumab|MDX\-060
+pralatraxate|PDX|Folotyn
+ibrutinib|CRA\-032765|PCI\-32765|Imbruvica
+idelalisib|GS-1101|CAL101|Zydelig
+belinostat|BXD101|Beleodaq
+romidepsin|FX228|Istodax
+obinutuzumab|GA101|Gazyva
+ABVD
+BEAM
+CEB
+CEPP
+CHOP
+CVP
+DHAP
+EPOCH
+R\-EPOCH
+ER\-CHOP
+Hyper\-CVAD Reg A
+Hyper\-CVAD Reg B
+ICE
+MACOP\-B
+PELS
+MOPP
+PCR
+ProMACE\-CytaBOM
+PUVA
+R\-HyperCVAD Reg A
+R\-HyperCVAD Reg B
+RCHOP
+R\-CVP
+R\-ESHAP
+RICE
+R\-MACOP\-B
+ROAD
+Stanford V
+vcR\-CVAD
+BCVPP
+IVAC
+CODOX\-M
+MRT
+R\-GDP
+R\-Bendamustine

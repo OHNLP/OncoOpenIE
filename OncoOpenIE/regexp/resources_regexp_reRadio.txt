@@ -1,0 +1,10 @@
+radiotherapy
+radiation therapy
+radiation
+combined-modality
+combined modality
+Stereotactic body radiation therapy
+SBRT
+\d+\s*((c)?Gy\s*(XRT|cal)?|fractions|rads|(c)?Gy\s*\/(\d+)\s*(fx)?|fx|frctns|trtmnts)
+cGy
+RAD|Radiation|radiotherapy|Stereotactic body radiation therapy|SBRT
